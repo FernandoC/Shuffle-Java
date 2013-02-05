@@ -1,6 +1,6 @@
 Name: Fernando Carrillo (fcarril1)
-Class: CMPS101 w/ Patrick Tantalo
-Assignment: PA1
+
+Compiling Instructions: Download all the files and type "make" in SSH
 
 Files Submitted: List.java, ListTest.java, Shuffle.java, Makefile, and README
 
