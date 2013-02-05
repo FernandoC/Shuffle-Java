@@ -1,0 +1,19 @@
+Name: Fernando Carrillo (fcarril1)
+Class: CMPS101 w/ Patrick Tantalo
+Assignment: PA1
+
+Files Submitted: List.java, ListTest.java, Shuffle.java, Makefile, and README
+
+List.java:       Contains the doubly linked List ADT and all its functions.
+
+ListTest.java:   Contains a program that uses the List ADT to make sure everything
+                 is in order by calling all of its functions. 
+
+Shuffle.java:    Reads in a file and creats a List of permutations. 
+                 It then applies this permutation to a normal List. It does this
+                 until the List is back to normal and prints out the order or 
+                 amount of iterations it took to get back to normal. 
+
+Makefile:        Compiles everything and makes the Shuffle program into a jar file.
+
+README:          The title serves its purpose.  
